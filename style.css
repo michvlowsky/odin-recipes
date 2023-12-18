@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, serif;
+    background-color: darkgray;
+}
+
+img {
+    width: auto;
+    height: 500;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: bold;
+    color: lightcyan;
+    text-decoration: dotted underline;
+}
+
+h2 {
+    color: lightskyblue;
+    text-decoration: dashed underline;
+}
+
+a {
+    text-decoration: none;
+    color: lightgreen;
+}
